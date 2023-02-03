@@ -23,12 +23,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- openweathermap.org/api
 
 ## 💻 Projeto
 
 O App serve para ver informações do clima como graus, temperatura, vento nascer e pôr do sol.
 
-Você pode acessar o app do projeto através do link - [Visite o projeto online]()
+Você pode acessar o app do projeto através do link - [Visite o projeto online](https://ramirisonoliveira.github.io/appdayweather/)
 
 ## :memo: Licença
 
