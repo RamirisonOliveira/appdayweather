@@ -31,6 +31,10 @@ body{
   align-items: center;
 }
 
+.current-temperature__description:first-letter{
+  text-transform: uppercase;
+}
+
 .header__input{
   border: none;
   width: 100%;
@@ -81,7 +85,7 @@ body{
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-top: 90px;
+  margin-top: 30px;
 }
 
 .current-temperature__weather-icon{
